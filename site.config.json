@@ -1,0 +1,26 @@
+{
+  "repo": "wims-kultur",
+  "siteName": "Wim Kultur",
+  "logoText": "kultur",
+  "logoPrefix": "wim",
+  "tagline": "Tagline Wim Kultur",
+  "description": "Deskripsi meta Wim Kultur.",
+  "ogTitle": "Judul OG<br>untuk Wim Kultur",
+  "ogSubtitle": "Subtitle OG singkat dan informatif.",
+  "category": "kultur",
+  "categoryLabel": "Kultur",
+  "parent": "wims",
+  "children": [],
+  "related": [
+    "wims-living",
+    "wims-entertainment"
+  ],
+  "brand": {
+    "accent": "#f59e0b",
+    "accent2": "#d97706"
+  },
+  "giscus": {
+    "repoId": "REPO_ID",
+    "categoryId": "CATEGORY_ID"
+  }
+}
