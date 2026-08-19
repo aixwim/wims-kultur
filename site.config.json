@@ -10,7 +10,6 @@
   "category": "kultur",
   "categoryLabel": "Kultur",
   "parent": "wims",
-  "children": [],
   "related": [
     "wims-living",
     "wims-entertainment"
@@ -22,5 +21,6 @@
   "giscus": {
     "repoId": "R_kgDOT8FRBA",
     "categoryId": "DIC_kwDOT8FRBM4DDpVO"
-  }
+  },
+  "googleVerification": "dx63Ebn63PlvT6120AIhc7cyImZlvvYthTYPurZA_C8"
 }
