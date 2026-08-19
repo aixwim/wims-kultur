@@ -3,6 +3,8 @@ title: "Tradisi Lokal Nusantara: Kekayaan yang Terus Hidup"
 date: "2026-08-18"
 category: "Kultur"
 excerpt: "Mengenal beragam tradisi lokal di Indonesia, makna di baliknya, serta cara tradisi beradaptasi di tengah perubahan zaman."
+meta_title: "Tradisi Lokal Nusantara dan Nilai di Baliknya"
+meta_description: "Indonesia kaya akan tradisi lokal yang sarat nilai luhur. Simak ragam tradisi dari berbagai daerah dan cara tradisi beradaptasi di tengah perubahan zaman."
 tags: ["tradisi", "kearifan lokal", "nusantara"]
 ---
 

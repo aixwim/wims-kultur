@@ -3,6 +3,8 @@ title: "Kekayaan Kuliner Tradisional Indonesia"
 date: "2026-08-18"
 category: "Kultur"
 excerpt: "Mengenal kekayaan kuliner tradisional Indonesia, cerita di baliknya, serta upaya menjaga kelestariannya di tengah era kuliner modern."
+meta_title: "Kekayaan Kuliner Tradisional Indonesia dan Kisahnya"
+meta_description: "Kuliner tradisional menyimpan kekayaan rasa dan cerita turun-temurun. Pelajari keunikannya serta upaya menjaga kelestariannya di era modern."
 tags: ["kuliner", "makanan tradisional", "warisan kuliner"]
 ---
 

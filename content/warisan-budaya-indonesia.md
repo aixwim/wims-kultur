@@ -3,6 +3,8 @@ title: "Ragam Warisan Budaya Indonesia"
 date: "2026-08-18"
 category: "Kultur"
 excerpt: "Menelusuri ragam warisan budaya Indonesia: dari situs bersejarah, kesenian tradisional, hingga tradisi lisan yang diwariskan turun-temurun."
+meta_title: "Ragam Warisan Budaya Indonesia yang Wajib Dilestarikan"
+meta_description: "Warisan budaya Indonesia terdiri dari situs bersejarah, kesenian, hingga tradisi lisan. Kenali ragamnya serta pentingnya upaya pelestarian di era modern."
 tags: ["warisan budaya", "budaya indonesia", "pelestarian"]
 ---
 

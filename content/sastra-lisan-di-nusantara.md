@@ -3,6 +3,8 @@ title: "Sastra Lisan di Nusantara: Kearifan yang Tersimpan"
 date: "2026-08-19"
 category: "Kultur"
 excerpt: "Menjelajahi sastra lisan Nusantara, dari dongeng hingga mantra, serta pentingnya menjaga tradisi bercerita di tengah zaman digital."
+meta_title: "Sastra Lisan Nusantara dan Kearifan di Baliknya"
+meta_description: "Sastra lisan Nusantara menyimpan kearifan dan nilai luhur yang diwariskan turun-temurun. Ketahui bentuk-bentuknya dan cara menghidupkan tradisi bercerita."
 tags: ["sastra lisan", "cerita rakyat", "tradisi", "warisan budaya"]
 ---
 

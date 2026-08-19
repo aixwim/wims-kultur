@@ -3,6 +3,8 @@ title: "Peran Generasi Muda dalam Melestarikan Budaya"
 date: "2026-08-19"
 category: "Kultur"
 excerpt: "Mengulas peran generasi muda dalam melestarikan budaya, dari media digital hingga komunitas kreatif, demi menjaga warisan tetap hidup."
+meta_title: "Peran Generasi Muda dalam Melestarikan Budaya"
+meta_description: "Generasi muda punya peran besar melestarikan budaya lewat media digital dan komunitas kreatif. Simak cara menjaga warisan tetap hidup di era perubahan."
 tags: ["generasi muda", "pelestarian", "budaya", "tradisi"]
 ---
 

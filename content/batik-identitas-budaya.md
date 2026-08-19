@@ -3,6 +3,8 @@ title: "Batik: Identitas Budaya Indonesia yang Mendunia"
 date: "2026-08-18"
 category: "Kultur"
 excerpt: "Menelusuri batik sebagai identitas budaya Indonesia, filosofi motifnya, proses pembuatannya, hingga perkembangannya di era modern."
+meta_title: "Batik Identitas Budaya Indonesia dan Filosofi Motifnya"
+meta_description: "Batik bukan sekadar kain, melainkan identitas budaya Indonesia yang mendunia. Kenali filosofi motif dan proses pembuatannya hingga era modern."
 tags: ["batik", "identitas budaya", "kain tradisional"]
 ---
 

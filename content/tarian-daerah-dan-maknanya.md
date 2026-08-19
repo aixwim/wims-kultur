@@ -3,6 +3,8 @@ title: "Tarian Daerah dan Maknanya"
 date: "2026-08-19"
 category: "Kultur"
 excerpt: "Menelusuri tarian daerah Indonesia sebagai warisan budaya, makna filosofis di balik geraknya, serta upaya menjaga keberlangsungannya."
+meta_title: "Tarian Daerah Indonesia dan Makna di Baliknya"
+meta_description: "Tarian daerah bukan sekadar hiburan, melainkan cerminan nilai dan sejarah masyarakat. Telusuri makna filosofis gerakannya dan upaya menjaga kelestariannya."
 tags: ["tarian", "tari tradisional", "budaya", "nusantara"]
 ---
 

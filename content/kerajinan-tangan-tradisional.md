@@ -3,6 +3,8 @@ title: "Kerajinan Tangan Tradisional Indonesia"
 date: "2026-08-19"
 category: "Kultur"
 excerpt: "Menelusuri kerajinan tangan tradisional Indonesia, keterampilan di baliknya, serta perannya bagi budaya dan ekonomi masyarakat."
+meta_title: "Kerajinan Tangan Tradisional Indonesia dan Perannya"
+meta_description: "Kerajinan tangan tradisional menyimpan keterampilan dan nilai budaya yang diwariskan turun-temurun. Simak perannya bagi budaya dan ekonomi masyarakat."
 tags: ["kerajinan", "kerajinan tangan", "tradisi", "warisan budaya"]
 ---
 

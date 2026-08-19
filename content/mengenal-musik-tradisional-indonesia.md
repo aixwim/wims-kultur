@@ -3,6 +3,8 @@ title: "Mengenal Musik Tradisional Indonesia"
 date: "2026-08-19"
 category: "Kultur"
 excerpt: "Mengenal beragam musik tradisional Indonesia, dari gamelan hingga sasando, serta makna yang tersimpan di balik setiap alunan nadanya."
+meta_title: "Mengenal Musik Tradisional Indonesia dan Maknanya"
+meta_description: "Mengenal beragam musik tradisional Indonesia, dari gamelan hingga sasando. Temukan makna dan fungsinya serta upaya menjaga musik ini tetap lestari."
 tags: ["musik tradisional", "alat musik", "nusantara", "warisan budaya"]
 ---
 
